@@ -1,0 +1,45 @@
+Answer to the Question:
+
+1.What is the difference between var, let, and const?
+    
+    Use const by default
+
+    Use let if the value will change
+
+    Avoid var in modern JavaScript.
+
+2. What is the spread operator (...)?
+
+The spread operator (...) in JavaScript is used to expand (spread) elements of an iterable like an array, object, or string into individual elements.
+
+It is commonly used for:
+
+    Copying arrays or objects
+
+    Merging arrays or objects
+
+    Passing elements as function arguments 
+
+
+3. What is the difference between map(), filter(), and forEach()?
+
+    =>map():
+map() creates a new array by applying a function to each element of the original array.
+Key points:
+    Returns a new array
+    Does not modify the original arrays
+
+    =>filter():
+filter() creates a new array containing only elements that pass a condition.
+Key points:
+        Returns a new array
+        Used to select specific elements 
+
+   =>forEach():
+forEach() loops through an array and executes a function for each element.
+Key points:
+        Does not return a new array
+        Mainly used for side effects (logging, updating variables, etc.)  
+
+ 4.What is an arrow function?
+  Answer:=> An arrow function is a shorter syntax for writing functions in JavaScript, introduced in ES6. It uses the => symbol.       
