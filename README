@@ -42,4 +42,9 @@ Key points:
         Mainly used for side effects (logging, updating variables, etc.)  
 
  4.What is an arrow function?
-  Answer:=> An arrow function is a shorter syntax for writing functions in JavaScript, introduced in ES6. It uses the => symbol.       
+  Answer:=> An arrow function is a shorter syntax for writing functions in JavaScript, introduced in ES6. It uses the => symbol.  
+
+  5. What are template literals?
+
+  Answer:=>
+  Template literals are strings written with backticks ()** that allow **embedded variables and expressions using ${}`.    
