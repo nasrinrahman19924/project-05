@@ -47,4 +47,4 @@ Key points:
   5. What are template literals?
 
   Answer:=>
-  Template literals are strings written with backticks ()** that allow **embedded variables and expressions using ${}`.    
+  Template literals are strings written with backticks ()** that allow **embedded variables and expressions using ${}`.   
